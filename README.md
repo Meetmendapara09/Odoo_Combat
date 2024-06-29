@@ -75,7 +75,7 @@ Welcome to Odoo Combat, your go-to platform for renting furniture online! This p
 
 ## Deployment 🚀
 
-- The application can be deployed to platforms like AWS, Heroku, or DigitalOcean. Ensure to set up environment variables securely and configure database connections accordingly.
+- The application can be deployed to platforms like Vercel, Netlify or CloudFlare. Ensure to set up environment variables securely and configure database connections accordingly.
 
 ## Contributions 🌟
 
